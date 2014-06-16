@@ -3,3 +3,4 @@ D:\DEMO\PreCursor\PreCursor\bin\Debug\PreCursor.exe
 D:\DEMO\PreCursor\PreCursor\bin\Debug\PreCursor.pdb
 D:\DEMO\PreCursor\PreCursor\obj\Debug\PreCursor.exe
 D:\DEMO\PreCursor\PreCursor\obj\Debug\PreCursor.pdb
+D:\DEMO\PreCursor\PreCursor\obj\Debug\PreCursor.csprojResolveAssemblyReference.cache
